@@ -3,7 +3,7 @@ function sinCalculate(a){
     return Math.sin(a);
 }
 console.log(sinCalculate(0.52));
-function tanCalculate(a){
-    return Math.tan(a);
+function add(a,b,c){
+    return (a+b+c);
 }
-console.log(tanCalculate(0.52));
+console.log(add(1,2,3));
